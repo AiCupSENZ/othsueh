@@ -1,0 +1,8 @@
+[Train]
+DataPath = "./TrainSet/train_data"
+FeaturePath = "./tabular_data_train"
+InfoFile = "./TrainSet/train_info.csv"
+
+[Test]
+DataPath = "./TestSet/test_data"
+InfoFile = "./TestSet/test_info.csv"
